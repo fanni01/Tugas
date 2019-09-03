@@ -1,0 +1,14 @@
+body{
+	font-family: sans-serif;
+	background: #d5f0f3;
+}
+h1{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+.tulisan_login{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}
